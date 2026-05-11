@@ -4,7 +4,7 @@ It includes writing SQL queries to explore the data, solve problems, and underst
 Overall, the project shows how SQL can be used to analyze data and support better decision-making.
 
 Objectives
-Analyze the number of Movies and TV Shows on Netflix.
-Find the most common ratings for Movies and TV Shows.
-Explore content by release year, country, and duration.
-Categorize content using different conditions and keywords.
+1)Analyze the number of Movies and TV Shows on Netflix.
+2)Find the most common ratings for Movies and TV Shows.
+3)Explore content by release year, country, and duration.
+4)Categorize content using different conditions and keywords.
